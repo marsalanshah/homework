@@ -5,7 +5,39 @@ body {
 	font-family: 'Oxygen', sans-serif;
 	}
 
+span{
+	font-family: 'Lora', serif;
+}
+
+
 
 #header-nav{
-	background-color: yellow;
+	background-color: #f6b319;
 }
+
+#logo-img {
+	background: url('../images/iqra5.jpg') no-repeat;
+	width: 256px;
+	height: 192px;
+	margin: 10px 15px 10px 0;
+
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+
+.navbar-brand h1 {
+	font-family: 'Lora', serif;
+	color: #667c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+	
+}
+
